@@ -15,7 +15,6 @@ jobs:
         node-version: '12.x'
         registry-url: 'https://npm.pkg.github.com'
         scope: '@avinet'
-    - run: npm install
     # Publish to GitHub Packages
     - run: npm publish --access restricted
       env:
