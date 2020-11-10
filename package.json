@@ -1,6 +1,6 @@
 {
   "name": "@avinet/react-translate",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "react utilities for simple i18n",
   "main": "./lib/index.js",
   "files": [
