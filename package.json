@@ -28,6 +28,7 @@
   },
   "author": "bloodyowl",
   "license": "MIT",
+  "repository": "https://github.com/avinet/react-translate",
   "dependencies": {
     "invariant": "^2.1.2"
   }
